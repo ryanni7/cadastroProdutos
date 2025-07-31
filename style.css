@@ -1,0 +1,30 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: grey;
+    color: beige;
+    padding: 20px;
+    text-align: center;
+}
+
+.container{
+    max-width: 800px;
+    margin: 20px auto;
+    background: gainsboro;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px;
+    border: 1px solid#ccc;
+    border-radius: 5px;
+}
